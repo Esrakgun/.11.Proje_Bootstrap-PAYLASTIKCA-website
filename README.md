@@ -5,6 +5,7 @@ Bu proje, tamamen HTML, CSS, Bootstrap  kullanılarak oluşturulmuş bir web ara
 # Projede Kullanılan Diller ve Araçlar
 Html, Css, Bootstrap , Visual Studio Code.
 
-Proje Gif![Amazon](https://github.com/user-attachments/assets/334fb80b-4dbb-4b79-8340-527c33858c6c)
+Proje Gif![Paylaştıkça](https://github.com/user-attachments/assets/2d1d49e5-1d6f-42e5-934f-c89e2d7ad23e)
+
 
 
