@@ -1,4 +1,4 @@
-# 11.Proje_Bootstrap-PAYLASTIKCA-website
+# Bootstrap-PAYLASTIKCA-website
 # Proje Özellikleri
 Bu proje, tamamen HTML, CSS, Bootstrap  kullanılarak oluşturulmuş bir web arayüzüdür. Kendi becerilerimi geliştirmek, modern tasarım prensiplerini öğrenmek ve uygulamak amacıyla hazırlanmış bir çalışma olarak tasarlanmıştır.
 
